@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615248068 source:c:\users\user-pc\documents\epn-2020b m.c\aed\code..blocks\librerias\main.cpp
+	<iostream>
+	"dos.h"
+	"ingresar.h"
+
+1615247519 c:\users\user-pc\documents\epn-2020b m.c\aed\code..blocks\librerias\dos.h
+
+1615247692 c:\users\user-pc\documents\epn-2020b m.c\aed\code..blocks\librerias\ingresar.h
+	<iostream>
+
